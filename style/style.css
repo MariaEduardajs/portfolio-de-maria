@@ -11,13 +11,13 @@
 .h1-menu {
     padding-top: 7px;
     padding-left: 20px;
-    color: white;
+    color: black;
     font-size: 2em;
     
 }
 
 .h1-menu:hover {
-    color: #c774ff;
+    color: #580000;
 }
 
 .ul-menu {
@@ -32,12 +32,12 @@ li {
 }
 
 .a-menu {
-    color: white;
+    color: black;
     text-decoration: none;
 }
 
 .a-menu:hover {
-    color: #c774ff;
+    color: #580000;
     text-decoration: none;
 }
 
@@ -50,11 +50,11 @@ li {
 
 
 .corprimaria {
-    background-color: #67487c ;
+    background-color: #Cb7c72 ;
 }
 
 .corsecundaria {
-    background-color: #b15668;
+    background-color: #c5adaa;
 }
 
 p { 
