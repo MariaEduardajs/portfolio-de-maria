@@ -1,0 +1,111 @@
+@charset "UTF-8";
+
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.h1-menu {
+    padding-top: 7px;
+    padding-left: 20px;
+    color: white;
+    font-size: 2em;
+    
+}
+
+.h1-menu:hover {
+    color: #c774ff;
+}
+
+.ul-menu {
+    padding-top: 15px;
+    padding-right: 20px;
+}
+
+li {
+    padding-right: 10px;
+    display: inline;
+    justify-content: flex-end;
+}
+
+.a-menu {
+    color: white;
+    text-decoration: none;
+}
+
+.a-menu:hover {
+    color: #c774ff;
+    text-decoration: none;
+}
+
+.foto-perfil {
+    height: 180px;
+    width: auto;
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+
+.corprimaria {
+    background-color: #67487c ;
+}
+
+.corsecundaria {
+    background-color: #b15668;
+}
+
+p { 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.icones {
+    padding-left: 5px;
+
+}
+
+.titulosbrancos {
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight:700;
+    color: white;
+
+}
+
+.titulosvermelhos {
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight:700;
+    color:#a9767a;
+
+}
+
+.texto-branco {
+    color: white;
+}
+
+.jumbotron {
+     margin-bottom: 0px;
+}
+
+#contato {
+    padding-top: 20px;
+}
+
+.textofooter {
+    margin: 0px;
+    margin-top: -15px;
+    padding-top: 15px; 
+    padding-bottom: 15px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
